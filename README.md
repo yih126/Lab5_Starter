@@ -22,3 +22,8 @@ This project implements:
 
 ## Notes
 All tests pass successfully and GitHub Actions is configured to run tests on push.
+
+## GitHub Pages Links
+https://github.com/yih126/Lab5_Starter/blob/master/assets/scripts/explore.js
+
+https://github.com/yih126/Lab5_Starter/blob/master/assets/scripts/expose.js
